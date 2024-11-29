@@ -1,0 +1,1 @@
+# Git project for Currency Converter with React and Tailwind
